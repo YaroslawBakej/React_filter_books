@@ -1,9 +1,7 @@
 import Content from "../../Components/Content/Content"
 import Search from "../../Components/Search/Search"
 
-
-function HomePage(){
-
+function HomePage() {
     return (
         <>
         <Search/>
